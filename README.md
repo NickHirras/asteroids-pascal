@@ -2,7 +2,7 @@
 
 This is a clone of the classic arcade game "Asteroids," written in Turbo Pascal using the BGI library for graphics.
 
-This project was written by Nicholas Smith in November 2000 for a Programming Concepts II class.
+This project was done in November 2000 for a Programming Concepts II class.
 
 ## Screenshots
 
@@ -39,12 +39,5 @@ This game was designed for a DOS environment. You can run the game by executing 
 
 ## Developer Notes (from source)
 
--   The code was written by Nicholas Smith (`imnes@go.com`).
--   The game was written for a class project at Pensacola Junior College.
--   The author noted some features were not finished:
-    -   Asteroids do not split into smaller chunks.
-    -   The player is not initially invulnerable after respawning.
+-   The player is not initially invulnerable after respawning.
 -   There is a "God Mode" secret code (`IMNES`).
-
----
-_This README was generated based on the project source files._
